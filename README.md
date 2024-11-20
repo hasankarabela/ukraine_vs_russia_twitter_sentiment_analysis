@@ -62,3 +62,5 @@ Bu skorlar veri setine eklenir.
 
 Duygu Eğilimlerinin Görselleştirilmesi:
 Her duygu türü için kelime bulutları çıkarılır ve görselleştirilir.
+
+Kaggle dataset: https://www.kaggle.com/datasets/towhidultonmoy/russia-vs-ukraine-tweets-datasetdaily-updated
